@@ -1,0 +1,15 @@
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+samples/
+*.mp4
+*.wav
+*.npz
+report.json
+.DS_Store
